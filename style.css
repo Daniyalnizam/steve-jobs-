@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    width: 40%;
+    color: white;
+}
+.picture, hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
